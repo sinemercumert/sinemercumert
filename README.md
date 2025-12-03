@@ -43,20 +43,23 @@ I am a software engineer with a strong background in **mobile application develo
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/sinemercumert">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="Sinem's Stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=dark&hide_border=false&border_radius=10" 
+      alt="Sinem's GitHub Stats" 
+      height="180"
+    />
   </a>
-  &nbsp;
-  <a href="https://github.com/sinemercumert">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sinemercumert">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/sinemercumert">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=dark&hide_border=false&border_radius=10" 
+      alt="Top Languages" 
+      height="180"
+    />
   </a>
 </p>
