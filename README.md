@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Based in <b>Łódź, Poland</b> 🇵🇱 | M.Sc. Computer Engineering Student
+  Based in <b>Łódź, Poland</b> 🇵🇱 | M.Sc. Computer Science Student
 </p>
 
 <hr/>
@@ -16,7 +16,7 @@
 
 I am a software engineer with a strong background in **mobile application development (iOS)**, now expanding my horizons into **Artificial Intelligence and Data Science**. I combine my technical coding skills with a **product management mindset** to build meaningful and efficient solutions.
 
-- 🎓 Currently pursuing my **M.Sc. in Computer Engineering** at the University of Łódź.
+- 🎓 Currently pursuing my **M.Sc. in Computer Science** at the University of Łódź.
 - 📱 Previously developed iOS apps for startups and health sectors using **Swift & UIKit/SwiftUI**.
 - 🌱 Learning **Python, Data Analysis, and Machine Learning**.
 - 💡 Completed a **150-hour Product Management Bootcamp** to master the business side of tech.
