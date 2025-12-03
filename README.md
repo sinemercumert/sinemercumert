@@ -32,6 +32,8 @@ I am a software engineer with a strong background in **mobile application develo
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
 <p align="left">
@@ -43,25 +45,3 @@ I am a software engineer with a strong background in **mobile application develo
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- Stats -->
-  <a href="https://github.com/sinemercumert">
-    <img 
-      height="180"
-      src="https://github-readme-stats-yuki.vercel.app/api?username=sinemercumert&show_icons=true&theme=github_dark&hide_border=false"
-      alt="Sinem's GitHub Stats"
-    />
-  </a>
-
-  <!-- Top Langs -->
-  <a href="https://github.com/sinemercumert">
-    <img 
-      height="180"
-      src="https://github-readme-stats-yuki.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=github_dark&hide_border=false"
-      alt="Top Languages"
-    />
-  </a>
-</p>
