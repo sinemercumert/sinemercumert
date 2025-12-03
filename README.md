@@ -47,19 +47,21 @@ I am a software engineer with a strong background in **mobile application develo
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- Stats -->
   <a href="https://github.com/sinemercumert">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=dark&hide_border=false&border_radius=10" 
-      alt="Sinem's GitHub Stats" 
       height="180"
+      src="https://github-readme-stats-yuki.vercel.app/api?username=sinemercumert&show_icons=true&theme=github_dark&hide_border=false"
+      alt="Sinem's GitHub Stats"
     />
   </a>
 
+  <!-- Top Langs -->
   <a href="https://github.com/sinemercumert">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=dark&hide_border=false&border_radius=10" 
-      alt="Top Languages" 
       height="180"
+      src="https://github-readme-stats-yuki.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=github_dark&hide_border=false"
+      alt="Top Languages"
     />
   </a>
 </p>
