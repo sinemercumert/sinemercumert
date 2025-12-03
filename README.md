@@ -46,15 +46,8 @@ I am a software engineer with a strong background in **mobile application develo
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/sinemercumert">
-    <img src="https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=transparent&hide_border=true&locale=en" height="160" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=transparent&hide_border=true" height="160" alt="languages" />
-  </a>
-</div>
+[![Sinem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=dark&hide_border=true)](https://github.com/sinemercumert)
 
-<div align="center">
-  <a href="https://linkedin.com/in/sinemercumert" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=dark&hide_border=true)](https://github.com/sinemercumert)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinemercumert)
