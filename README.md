@@ -46,11 +46,15 @@ I am a software engineer with a strong background in **mobile application develo
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=minimal&hide_border=true" alt="sinemercumert" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinemercumert&show_icons=true&locale=en&layout=compact&theme=minimal&hide_border=true" alt="sinemercumert" />
-</p>
+<div align="center">
+  <a href="https://github.com/sinemercumert">
+    <img src="https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=transparent&hide_border=true&locale=en" height="160" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=transparent&hide_border=true" height="160" alt="languages" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sinemercumert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinemercumert" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/sinemercumert" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
