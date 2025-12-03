@@ -43,11 +43,20 @@ I am a software engineer with a strong background in **mobile application develo
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
-[![Sinem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=dark&hide_border=true)](https://github.com/sinemercumert)
+<p align="center">
+  <a href="https://github.com/sinemercumert">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sinemercumert&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="Sinem's Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sinemercumert">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemercumert&layout=compact&theme=dark&hide_border=true)](https://github.com/sinemercumert)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinemercumert)
+<p align="center">
+  <a href="https://linkedin.com/in/sinemercumert">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
